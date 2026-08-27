@@ -57,13 +57,7 @@ pip install -r requirements.txt
 
 ## Manual step: EGMS token
 
-EGMS (ground subsidence) requires a free Copernicus Land Monitoring Service account:
-
-1. Register at https://land.copernicus.eu/en (free)
-2. Go to your profile -> **API Tokens** -> **Create new Token**
-3. Save the JSON it shows you as `token.jwt` in the project root (already gitignored)
-
-Everything else (OSM, DEM, tide data) runs with no login.
+EGMS (ground subsidence) requires a free Copernicus Land Monitoring Service account
 
 ## Viewing the outputs
 
