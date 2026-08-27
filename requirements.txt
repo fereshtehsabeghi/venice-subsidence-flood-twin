@@ -1,0 +1,11 @@
+geopandas
+osmnx
+shapely
+rasterio
+rasterstats
+requests
+numpy
+pandas
+scipy
+pyjwt
+cryptography
